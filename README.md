@@ -1,6 +1,6 @@
 
 # Customer Churn Prediction 
-![Image Alt Text](https://github.com/mercytegekson/Phase3Project/blob/main/customerchurnlogo.JPG)
+![Image Alt Text](https://github.com/mercytegekson/Phase3Project/blob/main/CUSTOMER.jpeg)
 
 # Customer Churn Prediction
 
