@@ -1,5 +1,5 @@
 
-# Customer Churn Prediction with 
+# Customer Churn Prediction 
 ![Image Alt Text](https://github.com/mercytegekson/Phase3Project/blob/main/customerchurnlogo.JPG)
 
 # Customer Churn Prediction
