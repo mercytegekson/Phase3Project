@@ -33,7 +33,7 @@ The [Jupyter Notebook](https://github.com/mercytegekson/Phase3Project/blob/main/
 I recommend using [nbviewer](https://nbviewer.jupyter.org/) to view the Jupyter Notebook.
 
 * **Presentation**
-The [presentation](https://) gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long.
+The [presentation](https://github.com/mercytegekson/Phase3Project/blob/main/Phase3presentation.pdf) gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long.
 
 * **Data**
 
